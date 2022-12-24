@@ -1,0 +1,49 @@
+﻿@using EntityLayer.Statistics
+@model Statistics
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<br />
+<h4>Mvc Proje Kampı 40 Güncelleme İşlemi & Sertifika Görev 2/4</h4>
+<br />
+<div class="info-box bg-dark">
+    <div class="info-box-content">
+        <span class="info-box-text">Toplam Kategori Sayısı</span>
+        <span class="info-box-number">@Model.TotalCategoryCount</span>
+    </div>
+</div>
+
+<div class="info-box bg-navy">
+    <div class="info-box-content">
+        <span class="info-box-text">Başlık tablosunda "yazılım" kategorisine ait başlık sayısı</span>
+        <span class="info-box-number">@Model.SoftwareCategoryCount</span>
+    </div>
+</div>
+
+<div class="info-box bg-cyan">
+    <div class="info-box-content">
+        <span class="info-box-text">Yazar adında 'a' harfi geçen yazar sayısı</span>
+        <span class="info-box-number">@Model.WriterCount</span>
+    </div>
+</div>
+
+<div class="info-box bg-olive">
+
+    <div class="info-box-content">
+        <span class="info-box-text">En fazla başlığa sahip kategori adı</span>
+        <span class="info-box-number">@Model.MaximumCategoryCountName</span>
+    </div>
+</div>
+
+<div class="info-box bg-gray">
+    <div class="info-box-content">
+        <span class="info-box-text">Kategori tablosunda durumu true olan kategoriler ile false olan kategoriler arasındaki sayısal fark</span>
+        <span class="info-box-number">@Model.DifCategoryStatus</span>
+
+    </div>
+</div>
+
+
+
+
