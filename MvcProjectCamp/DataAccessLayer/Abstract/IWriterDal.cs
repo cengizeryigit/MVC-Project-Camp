@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccessLayer.Abdstract
+namespace DataAccessLayer.Abstract
 {
-    public interface IWriterDal: IRepository<Writer>
+    public interface IWriterDal:IRepository<Writer>
     {
     }
 }

@@ -1,4 +1,4 @@
-﻿using DataAccessLayer.Abdstract;
+﻿using DataAccessLayer.Abstract;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -18,20 +18,25 @@ namespace DataAccessLayer.Concrete.Repositories
         {
             _object = c.Set<T>();
         }
+
         public void Delete(T p)
         {
-            _object.Remove(p);
+            var deleteEntity = c.Entry(p);
+            deleteEntity.State = EntityState.Deleted;
+            //_object.Remove(p);
             c.SaveChanges();
         }
 
         public T Get(Expression<Func<T, bool>> filter)
         {
-           return _object.SingleOrDefault(filter);
+            return _object.SingleOrDefault(filter);
         }
 
         public void Insert(T p)
         {
-            _object.Add(p);
+            var addEntity = c.Entry(p);
+            addEntity.State = EntityState.Added;
+            //_object.Add(p);
             c.SaveChanges();
         }
 
@@ -40,13 +45,15 @@ namespace DataAccessLayer.Concrete.Repositories
             return _object.ToList();
         }
 
-        public List<T> List(Expression<Func<T, bool>> filter)
+        public List<T> List(Expression<Func<T, bool>> Filter)
         {
-            return _object.Where(filter).ToList();
+            return _object.Where(Filter).ToList();
         }
 
         public void Update(T p)
         {
+            var updateEntity = c.Entry(p);
+            updateEntity.State = EntityState.Modified;
             c.SaveChanges();
         }
     }
