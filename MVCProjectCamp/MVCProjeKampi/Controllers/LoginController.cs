@@ -28,7 +28,7 @@ namespace MVCProjeKampi.Controllers
         public ActionResult Index(Admin p)
         {
             var response = Request["g-recaptcha-response"];
-            string secretKey = "6LcSs38bAAAAAAsBPZxcUHgReTYJwnfdw-TjDtx-";
+            string secretKey = "6LduWsIjAAAAAPPxawMUoGgWOXxY0oVPxKrUwE-d";
             var client = new WebClient();
             var reply =
             client.DownloadString(

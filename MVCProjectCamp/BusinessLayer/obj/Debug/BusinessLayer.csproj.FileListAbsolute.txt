@@ -42,3 +42,25 @@ C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\FluentValidation.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\FluentValidation.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Debug\BusinessLayer.pdb

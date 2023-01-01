@@ -12,3 +12,17 @@ D:\MVC Kamp\MVCProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompile
 D:\MVC Kamp\MVCProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
 D:\MVC Kamp\MVCProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
 D:\MVC Kamp\MVCProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\EntityLayer\obj\Release\EntityLayer.pdb

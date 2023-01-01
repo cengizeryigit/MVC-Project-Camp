@@ -8,7 +8,7 @@
     string color = "";
     string status = "";
     string statusColor = "";
-    string deleteBtn = "";
+
 }
 
 
@@ -47,6 +47,9 @@
                         <th style="width: 15%">
                             Oluşturan Yazar
                         </th>
+                        <th style="width: 15%">
+                            Durum
+                        </th>
                         <th style="width: 8%" class="text-center">
                             Kategori
                         </th>
@@ -57,21 +60,29 @@
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        if (item.Category.CategoryName == "Film")
+                        if (item.Category.CategoryID % 6 == 0)
                         {
                             color = "badge badge-warning";
                         }
-                        if (item.Category.CategoryName == "Tiyatro")
+                        if (item.Category.CategoryID % 6 == 1)
                         {
                             color = "badge badge-success";
                         }
-                        if (item.Category.CategoryName == "yazılım")
+                        if (item.Category.CategoryID % 6 == 2)
                         {
                             color = "badge badge-info";
                         }
-                        if (item.Category.CategoryName == "Eğitim")
+                        if (item.Category.CategoryID % 6 == 3)
                         {
                             color = "badge badge-secondary";
+                        }
+                        if (item.Category.CategoryID % 6 == 4)
+                        {
+                            color = "badge badge-primary";
+                        }
+                        if (item.Category.CategoryID % 6 == 5)
+                        {
+                            color = "badge badge-dark";
                         }
                         <tr>
                             <td>
@@ -93,11 +104,29 @@
                                     </li>
                                 </ul>
                             </td>
+                            <td>
+                                @{
+                                    if (item.HeadingStatus == true)
+                                    {
+                                        status = "Aktif";
+                                        statusColor = "btn-success btn btn-sm";
+
+
+                                    }
+                                    else if (item.HeadingStatus == false)
+                                    {
+
+                                        status = "Pasif";
+                                        statusColor = "btn-danger btn btn-sm";
+                                    }
+                                }
+                                <span class="@statusColor ">@status</span>
+                            </td>
                             <td class="project-state">
                                 <span class="@color">@item.Category.CategoryName</span>
                             </td>
                             <td class="project-actions text-right">
-                                <a class="btn btn-primary btn-sm" href="/Content/ContentByHeading/@item.HeadingID">
+                                <a class="btn btn-primary btn-sm " href="/Default/Headings/@item.HeadingID">
                                     <i class="fas fa-folder">
                                     </i>
                                     Yazılar
@@ -107,11 +136,29 @@
                                     </i>
                                     Düzenle
                                 </a>
-                                <a class="btn btn-danger btn-sm" href="/WriterPanel/DeleteHeading/@item.HeadingID">
-                                    <i class="fas fa-trash">
-                                    </i>
-                                    @deleteBtn
-                                </a>
+                                @{
+                                    string btn = "";
+                                    string yazi = "";
+                                    if (item.HeadingStatus == true)
+                                    {
+                                        yazi = "Pasif Yap";
+                                        btn = "btn btn-danger btn-sm ";
+
+
+                                    }
+                                    else if (item.HeadingStatus == false)
+                                    {
+                                        yazi = "Aktif Yap";
+                                        btn = "btn btn-success btn-sm ";
+
+                                    }
+
+                                    <a class="@btn" href="/WriterPanel/DeleteHeading/@item.HeadingID">
+                                        <i class="fas fa-trash">
+                                        </i>
+                                        @yazi
+                                    </a>
+                                }
                             </td>
                         </tr>
                     }
@@ -120,5 +167,5 @@
         </div>
     </div>
 </section>
-<a href="/WriterPanel/NewHeading/" class="btn btn-primary">Yeni başlık girişi</a>
+<a href="/Heading/AddHeading/" class="btn btn-primary">Yeni başlık girişi</a>
 

@@ -62,3 +62,35 @@ C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\cengi\Desktop\Public-Web-Uygulamalari\YazarWebUygulamasi\MVCProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_imagesizechange.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_addstatus.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_message.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_table.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_about_status.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.messagestatus_add.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migskilltable_add.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contactadddate.resources
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

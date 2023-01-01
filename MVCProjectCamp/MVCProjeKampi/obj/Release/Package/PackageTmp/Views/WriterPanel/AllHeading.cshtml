@@ -8,9 +8,7 @@
 }
 @{
     string color = "";
-    string status = "";
-    string statusColor = "";
-    string deleteBtn = "";
+
 }
 
 
@@ -59,21 +57,30 @@
                 <tbody>
                     @foreach (var item in Model)
                     {
-                        if (item.Category.CategoryName == "Film")
+
+                        if (item.Category.CategoryID % 6 == 0)
                         {
                             color = "badge badge-warning";
                         }
-                        if (item.Category.CategoryName == "Tiyatro")
+                        if (item.Category.CategoryID % 6 == 1)
                         {
                             color = "badge badge-success";
                         }
-                        if (item.Category.CategoryName == "yazılım")
+                        if (item.Category.CategoryID % 6 == 2)
                         {
                             color = "badge badge-info";
                         }
-                        if (item.Category.CategoryName == "Eğitim")
+                        if (item.Category.CategoryID % 6 == 3)
                         {
                             color = "badge badge-secondary";
+                        }
+                        if (item.Category.CategoryID % 6 == 4)
+                        {
+                            color = "badge badge-primary";
+                        }
+                        if (item.Category.CategoryID % 6 == 5)
+                        {
+                            color = "badge badge-dark";
                         }
                         <tr>
                             <td>

@@ -20,3 +20,25 @@ D:\MVC Kamp\MVCProjeKampi\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCom
 D:\MVC Kamp\MVCProjeKampi\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
 D:\MVC Kamp\MVCProjeKampi\BusinessLayer\obj\Release\BusinessLayer.dll
 D:\MVC Kamp\MVCProjeKampi\BusinessLayer\obj\Release\BusinessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\BusinessLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityFramework.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\FluentValidation.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityLayer.pdb
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityLayer.dll.config
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityFramework.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\FluentValidation.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Release\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Release\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Users\cengi\Desktop\New folder (2)\MVCProjectCamp\BusinessLayer\obj\Release\BusinessLayer.pdb
